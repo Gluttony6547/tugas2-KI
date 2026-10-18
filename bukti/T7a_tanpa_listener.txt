@@ -1,0 +1,12 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - SENDER (NODE B)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[TARGET]     IP Receiver     : 127.0.0.1
+[PORT]       Port Socket    : 65499
+[STATUS]     Menghubungkan ke Receiver...
+============================================================
+
+[ERROR] Timeout 2 detik saat menghubungi 127.0.0.1:65499.
+        Cek rute/NAT/port forwarding dan firewall di mesin receiver.

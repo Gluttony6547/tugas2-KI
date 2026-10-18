@@ -1,0 +1,49 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - SENDER (NODE B)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[TARGET]     IP Receiver     : 127.0.0.1
+[PORT]       Port Socket    : 65440
+[STATUS]     Menghubungkan ke Receiver...
+============================================================
+
+[SUCCESS] Terhubung: 127.0.0.1:9567 -> 127.0.0.1:65440
+
+[TERKIRIM] #1 Ciphertext DES (HEX) : bebb1ccae7e9db436f1680eb3a991724
+[TERKIRIM] #1 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : daf6ea2c878be0c09d53bff8e07024ee
+[DITERIMA] #1 Plaintext Hasil      : OK uji lokal
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : bebb1ccae7e9db436f1680eb3a991724
+[TERKIRIM] #2 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : daf6ea2c878be0c09d53bff8e07024ee
+[DITERIMA] #2 Plaintext Hasil      : OK uji lokal
+==================================================
+[TERKIRIM] #3 Ciphertext DES (HEX) : bebb1ccae7e9db436f1680eb3a991724
+[TERKIRIM] #3 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #3 Ciphertext DES (HEX) : daf6ea2c878be0c09d53bff8e07024ee
+[DITERIMA] #3 Plaintext Hasil      : OK uji lokal
+==================================================
+[TERKIRIM] #4 Ciphertext DES (HEX) : bebb1ccae7e9db436f1680eb3a991724
+[TERKIRIM] #4 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #4 Ciphertext DES (HEX) : daf6ea2c878be0c09d53bff8e07024ee
+[DITERIMA] #4 Plaintext Hasil      : OK uji lokal
+==================================================
+[TERKIRIM] #5 Ciphertext DES (HEX) : bebb1ccae7e9db436f1680eb3a991724
+[TERKIRIM] #5 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #5 Ciphertext DES (HEX) : daf6ea2c878be0c09d53bff8e07024ee
+[DITERIMA] #5 Plaintext Hasil      : OK uji lokal
+==================================================
+
+[HASIL] LULUS: 5 pesan terkirim, 5 balasan diterima.

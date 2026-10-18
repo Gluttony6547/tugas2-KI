@@ -1,0 +1,13 @@
+waktu            : 2026-10-18T21:03:18
+mode             : lokal
+host tujuan      : 127.0.0.1:55555
+IP lokal         : 127.0.0.1
+IP remote        : 127.0.0.1
+peer di log      : 127.0.0.1
+pesan            : 4
+durasi sender    : 0.133 s
+exit sender      : 0
+exit receiver    : 0
+RX di receiver   : 4
+TX di sender     : 4
+hasil            : LULUS

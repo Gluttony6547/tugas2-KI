@@ -1,0 +1,1412 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[STATUS]     Menunggu koneksi dari Sender di 127.0.0.1:65436...
+============================================================
+
+[SUCCESS] Terhubung dengan Sender 127.0.0.1:6961 -> lokal 127.0.0.1:65436
+
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #1 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #1 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #1 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #2 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #2 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #3 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #3 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #3 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #3 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #4 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #4 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #4 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #4 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #5 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #5 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #5 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #5 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #6 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #6 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #6 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #6 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #7 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #7 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #7 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #7 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #8 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #8 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #8 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #8 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #9 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #9 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #9 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #9 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #10 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #10 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #10 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #10 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #11 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #11 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #11 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #11 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #12 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #12 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #12 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #12 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #13 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #13 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #13 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #13 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #14 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #14 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #14 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #14 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #15 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #15 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #15 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #15 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #16 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #16 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #16 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #16 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #17 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #17 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #17 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #17 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #18 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #18 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #18 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #18 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #19 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #19 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #19 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #19 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #20 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #20 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #20 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #20 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #21 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #21 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #21 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #21 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #22 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #22 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #22 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #22 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #23 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #23 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #23 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #23 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #24 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #24 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #24 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #24 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #25 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #25 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #25 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #25 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #26 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #26 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #26 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #26 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #27 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #27 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #27 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #27 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #28 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #28 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #28 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #28 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #29 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #29 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #29 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #29 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #30 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #30 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #30 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #30 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #31 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #31 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #31 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #31 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #32 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #32 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #32 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #32 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #33 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #33 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #33 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #33 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #34 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #34 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #34 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #34 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #35 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #35 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #35 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #35 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #36 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #36 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #36 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #36 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #37 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #37 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #37 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #37 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #38 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #38 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #38 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #38 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #39 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #39 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #39 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #39 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #40 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #40 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #40 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #40 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #41 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #41 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #41 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #41 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #42 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #42 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #42 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #42 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #43 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #43 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #43 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #43 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #44 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #44 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #44 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #44 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #45 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #45 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #45 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #45 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #46 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #46 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #46 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #46 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #47 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #47 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #47 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #47 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #48 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #48 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #48 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #48 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #49 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #49 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #49 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #49 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #50 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #50 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #50 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #50 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #51 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #51 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #51 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #51 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #52 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #52 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #52 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #52 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #53 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #53 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #53 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #53 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #54 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #54 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #54 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #54 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #55 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #55 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #55 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #55 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #56 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #56 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #56 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #56 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #57 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #57 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #57 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #57 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #58 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #58 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #58 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #58 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #59 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #59 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #59 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #59 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #60 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #60 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #60 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #60 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #61 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #61 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #61 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #61 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #62 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #62 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #62 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #62 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #63 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #63 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #63 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #63 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #64 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #64 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #64 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #64 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #65 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #65 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #65 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #65 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #66 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #66 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #66 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #66 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #67 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #67 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #67 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #67 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #68 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #68 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #68 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #68 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #69 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #69 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #69 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #69 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #70 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #70 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #70 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #70 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #71 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #71 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #71 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #71 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #72 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #72 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #72 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #72 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #73 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #73 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #73 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #73 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #74 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #74 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #74 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #74 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #75 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #75 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #75 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #75 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #76 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #76 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #76 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #76 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #77 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #77 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #77 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #77 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #78 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #78 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #78 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #78 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #79 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #79 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #79 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #79 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #80 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #80 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #80 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #80 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #81 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #81 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #81 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #81 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #82 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #82 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #82 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #82 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #83 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #83 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #83 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #83 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #84 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #84 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #84 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #84 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #85 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #85 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #85 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #85 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #86 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #86 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #86 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #86 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #87 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #87 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #87 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #87 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #88 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #88 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #88 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #88 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #89 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #89 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #89 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #89 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #90 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #90 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #90 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #90 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #91 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #91 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #91 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #91 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #92 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #92 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #92 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #92 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #93 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #93 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #93 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #93 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #94 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #94 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #94 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #94 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #95 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #95 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #95 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #95 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #96 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #96 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #96 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #96 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #97 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #97 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #97 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #97 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #98 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #98 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #98 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #98 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #99 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #99 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #99 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #99 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #100 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #100 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #100 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #100 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #101 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #101 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #101 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #101 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #102 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #102 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #102 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #102 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #103 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #103 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #103 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #103 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #104 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #104 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #104 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #104 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #105 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #105 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #105 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #105 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #106 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #106 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #106 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #106 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #107 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #107 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #107 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #107 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #108 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #108 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #108 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #108 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #109 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #109 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #109 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #109 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #110 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #110 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #110 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #110 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #111 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #111 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #111 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #111 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #112 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #112 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #112 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #112 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #113 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #113 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #113 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #113 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #114 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #114 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #114 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #114 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #115 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #115 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #115 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #115 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #116 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #116 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #116 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #116 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #117 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #117 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #117 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #117 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #118 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #118 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #118 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #118 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #119 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #119 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #119 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #119 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #120 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #120 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #120 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #120 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #121 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #121 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #121 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #121 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #122 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #122 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #122 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #122 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #123 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #123 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #123 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #123 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #124 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #124 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #124 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #124 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #125 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #125 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #125 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #125 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #126 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #126 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #126 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #126 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #127 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #127 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #127 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #127 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #128 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #128 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #128 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #128 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #129 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #129 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #129 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #129 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #130 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #130 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #130 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #130 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #131 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #131 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #131 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #131 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #132 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #132 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #132 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #132 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #133 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #133 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #133 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #133 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #134 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #134 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #134 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #134 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #135 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #135 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #135 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #135 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #136 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #136 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #136 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #136 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #137 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #137 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #137 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #137 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #138 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #138 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #138 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #138 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #139 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #139 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #139 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #139 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #140 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #140 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #140 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #140 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #141 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #141 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #141 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #141 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #142 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #142 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #142 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #142 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #143 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #143 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #143 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #143 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #144 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #144 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #144 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #144 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #145 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #145 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #145 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #145 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #146 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #146 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #146 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #146 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #147 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #147 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #147 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #147 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #148 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #148 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #148 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #148 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #149 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #149 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #149 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #149 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #150 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #150 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #150 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #150 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #151 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #151 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #151 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #151 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #152 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #152 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #152 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #152 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #153 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #153 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #153 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #153 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #154 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #154 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #154 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #154 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #155 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #155 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #155 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #155 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #156 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #156 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #156 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #156 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #157 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #157 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #157 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #157 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #158 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #158 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #158 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #158 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #159 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #159 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #159 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #159 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #160 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #160 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #160 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #160 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #161 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #161 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #161 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #161 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #162 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #162 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #162 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #162 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #163 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #163 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #163 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #163 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #164 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #164 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #164 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #164 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #165 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #165 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #165 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #165 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #166 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #166 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #166 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #166 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #167 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #167 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #167 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #167 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #168 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #168 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #168 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #168 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #169 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #169 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #169 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #169 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #170 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #170 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #170 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #170 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #171 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #171 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #171 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #171 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #172 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #172 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #172 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #172 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #173 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #173 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #173 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #173 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #174 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #174 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #174 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #174 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #175 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #175 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #175 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #175 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #176 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #176 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #176 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #176 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #177 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #177 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #177 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #177 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #178 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #178 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #178 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #178 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #179 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #179 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #179 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #179 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #180 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #180 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #180 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #180 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #181 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #181 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #181 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #181 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #182 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #182 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #182 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #182 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #183 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #183 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #183 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #183 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #184 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #184 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #184 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #184 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #185 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #185 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #185 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #185 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #186 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #186 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #186 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #186 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #187 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #187 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #187 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #187 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #188 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #188 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #188 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #188 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #189 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #189 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #189 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #189 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #190 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #190 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #190 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #190 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #191 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #191 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #191 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #191 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #192 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #192 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #192 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #192 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #193 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #193 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #193 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #193 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #194 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #194 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #194 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #194 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #195 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #195 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #195 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #195 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #196 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #196 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #196 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #196 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #197 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #197 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #197 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #197 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #198 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #198 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #198 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #198 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #199 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #199 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #199 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #199 Panjang           : 8 byte
+
+==================================================
+[DITERIMA] #200 Ciphertext DES (HEX) : 855db25878c5158f
+[DITERIMA] #200 Plaintext Hasil      : BEBAN
+==================================================
+[TERKIRIM] #200 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #200 Panjang           : 8 byte
+
+[HASIL] LULUS: 200 pesan diterima, 200 balasan terkirim (isi tidak diverifikasi).

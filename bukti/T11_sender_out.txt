@@ -1,0 +1,35 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - SENDER (NODE B)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[TARGET]     IP Receiver     : 172.20.236.11
+[PORT]       Port Socket    : 55608
+[STATUS]     Menghubungkan ke Receiver...
+============================================================
+
+[SUCCESS] Terhubung: 172.20.224.1:39413 -> 172.20.236.11:55608
+
+[TERKIRIM] #1 Ciphertext DES (HEX) : 0237c827e528965dc6619342988d6571ebc6d687eecb9ac9
+[TERKIRIM] #1 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : c38bdd65285ec8bef2c8497be9e3995e
+[DITERIMA] #1 Plaintext Hasil      : OK dari Ubuntu
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : 0237c827e528965dc6619342988d6571ebc6d687eecb9ac9
+[TERKIRIM] #2 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : c38bdd65285ec8bef2c8497be9e3995e
+[DITERIMA] #2 Plaintext Hasil      : OK dari Ubuntu
+==================================================
+[TERKIRIM] #3 Ciphertext DES (HEX) : 0237c827e528965dc6619342988d6571ebc6d687eecb9ac9
+[TERKIRIM] #3 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #3 Ciphertext DES (HEX) : c38bdd65285ec8bef2c8497be9e3995e
+[DITERIMA] #3 Plaintext Hasil      : OK dari Ubuntu
+==================================================
+
+[HASIL] LULUS: 3 pesan terkirim, 3 balasan diterima.

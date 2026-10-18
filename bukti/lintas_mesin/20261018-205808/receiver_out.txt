@@ -1,0 +1,19 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[STATUS]     Menunggu koneksi dari Sender di 127.0.0.1:65442...
+============================================================
+
+[SUCCESS] Terhubung dengan Sender 127.0.0.1:51324 -> lokal 127.0.0.1:65442
+
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : 33e8ee433e9ff541b9a33b6d0ecd887e
+[DITERIMA] #1 Plaintext Hasil      : PING negatif
+==================================================
+[TERKIRIM] #1 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[TERKIRIM] #1 Panjang           : 8 byte
+
+[ERROR] Sender menutup koneksi sebelum pesan #2.

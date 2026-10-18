@@ -1,0 +1,3 @@
+receiver: 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\receiver_node-v3.py' 127.0.0.1 55555 --reply 'OK dari receiver' --count 3 --expect 'PING lintas mesin' --log 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-211128\receiver.log' --timeout 25.0
+sender  : 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\sender_node-v3.py' 127.0.0.1 55555 --send 'PING lintas mesin' --count 3 --expect SALAH --log 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-211128\sender.log' --timeout 20
+bukti   : C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-211128

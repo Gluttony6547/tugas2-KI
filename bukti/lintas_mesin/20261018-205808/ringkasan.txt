@@ -1,0 +1,13 @@
+waktu            : 2026-10-18T20:58:08
+mode             : lokal
+host tujuan      : 127.0.0.1:65442
+IP lokal         : 127.0.0.1
+IP remote        : 127.0.0.1
+peer di log      : 127.0.0.1
+pesan            : 3
+durasi sender    : 0.117 s
+exit sender      : 3
+exit receiver    : 2
+RX di receiver   : 1
+TX di sender     : 1
+hasil            : GAGAL

@@ -1,0 +1,3 @@
+receiver: 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\receiver_node-v3.py' 127.0.0.1 65440 --reply 'OK uji lokal' --count 5 --expect 'PING uji lokal' --log 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-205756\receiver.log' --timeout 25.0
+sender  : 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\sender_node-v3.py' 127.0.0.1 65440 --send 'PING uji lokal' --count 5 --expect 'OK uji lokal' --log 'C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-205756\sender.log' --timeout 20
+bukti   : C:\SMT_7\Keamanan Informasi\Tugas 2 Keamanan Informasi\bukti\lintas_mesin\20261018-205756

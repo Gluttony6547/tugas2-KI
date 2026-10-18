@@ -1,0 +1,9 @@
+waktu          : 2026-10-18T21:09:16
+receiver       : Ubuntu (WSL2) Linux 6.18.33.2-microsoft-standard-WSL2 x86_64 | Python 3.12.3 |
+IP receiver    : 172.20.236.11
+sender         : Windows 11, IP sumber 172.20.224.1
+exit sender    : 0
+exit receiver  : 0
+RX di receiver : 3
+TX di sender   : 3
+hasil          : LULUS

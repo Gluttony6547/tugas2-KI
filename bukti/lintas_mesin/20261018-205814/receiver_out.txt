@@ -1,0 +1,10 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[STATUS]     Menunggu koneksi dari Sender di 127.0.0.1:65443...
+============================================================
+
+[ERROR] Tidak ada koneksi masuk dalam 25 detik.
+        Cek IP tujuan di sender, port forwarding NAT, dan firewall.

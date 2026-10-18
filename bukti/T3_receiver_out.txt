@@ -1,0 +1,26 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+============================================================
+
+[STATUS]     Menunggu koneksi dari Sender di 192.168.207.1:65433...
+[SUCCESS] Terhubung dengan Sender 192.168.207.1:56586 -> lokal 192.168.207.1:65433
+
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : c7068cc3f7795588d06f816c3bde995ccd56af553465d08e5def6cb5573704aa
+[DITERIMA] #1 Plaintext Hasil      : PING lintas antarmuka 🔐
+==================================================
+[TERKIRIM] #1 Ciphertext DES (HEX) : 844945ec6a8104ebba9d1960a53e5fcf8fe806ce9d536da471ca93016fc604935b26f7fa680fdd5c738c1e528bddf2f1
+[TERKIRIM] #1 Panjang           : 48 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : c7068cc3f7795588d06f816c3bde995ccd56af553465d08e5def6cb5573704aa
+[DITERIMA] #2 Plaintext Hasil      : PING lintas antarmuka 🔐
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : 844945ec6a8104ebba9d1960a53e5fcf8fe806ce9d536da471ca93016fc604935b26f7fa680fdd5c738c1e528bddf2f1
+[TERKIRIM] #2 Panjang           : 48 byte
+
+[HASIL] LULUS: 2 pesan diterima, 2 balasan terkirim.

@@ -1,0 +1,40 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+============================================================
+
+[STATUS]     Menunggu koneksi dari Sender di 127.0.0.1:65445...
+[SUCCESS] Terhubung dengan Sender 127.0.0.1:34470 -> lokal 127.0.0.1:65445
+
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : c7068cc3f7795588e248620865ff560b0f984373f600f4e0
+[DITERIMA] #1 Plaintext Hasil      : PING lintas mesin
+==================================================
+[TERKIRIM] #1 Ciphertext DES (HEX) : c38bdd65285ec8bec69d7a3aef50e6cecc6f1b1ec5b2c09a
+[TERKIRIM] #1 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : c7068cc3f7795588e248620865ff560b0f984373f600f4e0
+[DITERIMA] #2 Plaintext Hasil      : PING lintas mesin
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : c38bdd65285ec8bec69d7a3aef50e6cecc6f1b1ec5b2c09a
+[TERKIRIM] #2 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #3 Ciphertext DES (HEX) : c7068cc3f7795588e248620865ff560b0f984373f600f4e0
+[DITERIMA] #3 Plaintext Hasil      : PING lintas mesin
+==================================================
+[TERKIRIM] #3 Ciphertext DES (HEX) : c38bdd65285ec8bec69d7a3aef50e6cecc6f1b1ec5b2c09a
+[TERKIRIM] #3 Panjang           : 24 byte
+
+==================================================
+[DITERIMA] #4 Ciphertext DES (HEX) : c7068cc3f7795588e248620865ff560b0f984373f600f4e0
+[DITERIMA] #4 Plaintext Hasil      : PING lintas mesin
+==================================================
+[TERKIRIM] #4 Ciphertext DES (HEX) : c38bdd65285ec8bec69d7a3aef50e6cecc6f1b1ec5b2c09a
+[TERKIRIM] #4 Panjang           : 24 byte
+
+[HASIL] LULUS: 4 pesan diterima, 4 balasan terkirim.

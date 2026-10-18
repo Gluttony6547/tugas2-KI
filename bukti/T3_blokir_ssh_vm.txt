@@ -1,0 +1,23 @@
+Percobaan T3/T4/T5 ke VM VMware - 2026-10-18T21:33:15
+VM: gluttonyVM (Linux Mint), vmx: C:/Users/NAUFAL DARISKARIM/Documents/Virtual Machines/Linux mintt/Linux mintt.vmx
+
+--- vmrun list ---
+Total running VMs: 1
+C:\Users\NAUFAL DARISKARIM\Documents\Virtual Machines\Linux mintt\Linux mintt.vmx
+
+--- ping 192.168.207.128 ---
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+--- port check ---
+port 22: ConnectionRefusedError
+port 2222: ConnectionRefusedError
+port 55555: ConnectionRefusedError
+port 65432: ConnectionRefusedError
+
+--- ssh percobaan ---
+ssh: connect to host 192.168.207.128 port 22: Connection refused
+
+KESIMPULAN: VM hidup dan merespons ping, tetapi tidak ada layanan SSH yang mendengarkan.
+T3/T4/T5 tidak dapat dijalankan sampai sshd aktif di dalam VM.

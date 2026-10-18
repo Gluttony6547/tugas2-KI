@@ -1,0 +1,12 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[STATUS]     Menunggu koneksi dari Sender di 127.0.0.1:65435...
+============================================================
+
+[SUCCESS] Terhubung dengan Sender 127.0.0.1:6927 -> lokal 127.0.0.1:65435
+
+
+[ERROR] data tidak cocok dengan PSK: kunci di kedua mesin berbeda atau ciphertext rusak

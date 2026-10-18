@@ -1,0 +1,9 @@
+waktu          : 2026-10-18T21:35:28
+receiver       : Windows 11 (Python 3.14.7), bind 0.0.0.0:55555
+sender         : Ubuntu WSL2 (Python 3.12.3), IP 172.20.236.11
+tujuan sender  : 172.20.224.1 (vEthernet WSL di Windows)
+exit sender    : 0
+exit receiver  : 0
+RX di receiver : 3
+TX di sender   : 3
+hasil          : LULUS

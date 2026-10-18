@@ -1,0 +1,20 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - SENDER (NODE B)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+[TARGET]     IP Receiver     : 127.0.0.1
+[PORT]       Port Socket    : 65442
+[STATUS]     Menghubungkan ke Receiver...
+============================================================
+
+[SUCCESS] Terhubung: 127.0.0.1:51324 -> 127.0.0.1:65442
+
+[TERKIRIM] #1 Ciphertext DES (HEX) : 33e8ee433e9ff541b9a33b6d0ecd887e
+[TERKIRIM] #1 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : f8c2f3ca322b0e39
+[DITERIMA] #1 Plaintext Hasil      : OK
+==================================================
+[HASIL] GAGAL: balasan #1 'OK' != harapan 'SALAH'

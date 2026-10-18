@@ -1,0 +1,362 @@
+============================================================
+      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
+============================================================
+[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
+[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
+============================================================
+
+[STATUS]     Menunggu koneksi dari Sender di 192.168.207.1:65434...
+[SUCCESS] Terhubung dengan Sender 192.168.207.1:56589 -> lokal 192.168.207.1:65434
+
+
+==================================================
+[DITERIMA] #1 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #1 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #1 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #1 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #2 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #2 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #2 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #2 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #3 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #3 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #3 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #3 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #4 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #4 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #4 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #4 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #5 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #5 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #5 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #5 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #6 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #6 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #6 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #6 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #7 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #7 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #7 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #7 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #8 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #8 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #8 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #8 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #9 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #9 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #9 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #9 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #10 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #10 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #10 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #10 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #11 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #11 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #11 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #11 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #12 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #12 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #12 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #12 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #13 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #13 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #13 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #13 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #14 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #14 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #14 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #14 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #15 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #15 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #15 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #15 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #16 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #16 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #16 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #16 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #17 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #17 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #17 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #17 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #18 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #18 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #18 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #18 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #19 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #19 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #19 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #19 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #20 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #20 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #20 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #20 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #21 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #21 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #21 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #21 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #22 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #22 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #22 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #22 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #23 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #23 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #23 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #23 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #24 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #24 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #24 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #24 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #25 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #25 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #25 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #25 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #26 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #26 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #26 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #26 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #27 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #27 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #27 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #27 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #28 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #28 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #28 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #28 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #29 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #29 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #29 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #29 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #30 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #30 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #30 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #30 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #31 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #31 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #31 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #31 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #32 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #32 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #32 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #32 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #33 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #33 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #33 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #33 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #34 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #34 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #34 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #34 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #35 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #35 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #35 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #35 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #36 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #36 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #36 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #36 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #37 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #37 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #37 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #37 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #38 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #38 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #38 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #38 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #39 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #39 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #39 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #39 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #40 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #40 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #40 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #40 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #41 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #41 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #41 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #41 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #42 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #42 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #42 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #42 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #43 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #43 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #43 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #43 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #44 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #44 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #44 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #44 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #45 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #45 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #45 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #45 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #46 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #46 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #46 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #46 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #47 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #47 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #47 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #47 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #48 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #48 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #48 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #48 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #49 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #49 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #49 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #49 Panjang           : 16 byte
+
+==================================================
+[DITERIMA] #50 Ciphertext DES (HEX) : 2b02c5e45f577811
+[DITERIMA] #50 Plaintext Hasil      : BURST
+==================================================
+[TERKIRIM] #50 Ciphertext DES (HEX) : 4da4ac201e8acd14cc6f1b1ec5b2c09a
+[TERKIRIM] #50 Panjang           : 16 byte
+
+[HASIL] LULUS: 50 pesan diterima, 50 balasan terkirim.
