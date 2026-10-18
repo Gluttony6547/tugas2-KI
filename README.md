@@ -89,7 +89,7 @@ Seluruh program hanya memakai **Python standard library** — tanpa `pip install
 | `argparse` | Opsi CLI (mode otomatis, kunci, log, timeout, selftest) |
 | `shutil`, `os`, `sys`, `re`, `socket` | Utilitas umum |
 
-**Persyaratan:** Python 3.8 atau lebih baru. Tidak ada dependensi pihak ketiga. `requirements.txt` sengaja dibiarkan tanpa paket — isinya hanya komentar — dan berfungsi sebagai kunci cache pip di GitHub Actions.
+**Persyaratan:** Python 3.8 atau lebih baru. Tidak ada dependensi pihak ketiga. `requirements.txt` berisi komentar saja sebagai penanda bahwa memang tidak ada paket yang perlu dipasang.
 
 ---
 
@@ -103,7 +103,7 @@ Tugas 2 Keamanan Informasi/
 ├── sender_node-v3.py       # Node B — client TCP
 ├── test_des.py             # 17 uji otomatis (unittest)
 ├── uji_lintas_mesin.py     # Otomatisasi uji lintas mesin via SSH
-├── requirements.txt        # Nol dependensi; kunci cache pip CI
+├── requirements.txt        # Penanda nol dependensi
 ├── .github/workflows/test.yml  # CI: uji lintas OS (Ubuntu + Windows)
 ├── PANDUAN_PENGUJIAN.md    # Panduan pengujian lengkap & matriks uji
 ├── HASIL_PENGUJIAN.md      # Tabel hasil pengujian + angka terukur
