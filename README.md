@@ -1,5 +1,7 @@
 # Tugas 2 — Komunikasi Terenkripsi DES 2 Arah (Windows ↔ Linux)
 
+[![Uji DES](https://github.com/Gluttony6547/tugas2-KI/actions/workflows/test.yml/badge.svg)](https://github.com/Gluttony6547/tugas2-KI/actions/workflows/test.yml)
+
 Simulasi komunikasi dua arah antara dua node (Sender dan Receiver) di **dua sistem operasi berbeda** dengan **alamat IP berbeda**. Seluruh proses enkripsi memakai **algoritma DES (Data Encryption Standard) yang diimplementasikan manual dari nol**, tanpa library kriptografi eksternal.
 
 ---
@@ -129,10 +131,12 @@ Buka **Command Prompt** atau **PowerShell** di folder ini.
 
 ```cmd
 python sender_node-v3.py --selftest
-python test_des.py -v
+python -m unittest test_des -v
 ```
 
-Keluaran yang diharapkan: `SELFTEST] LULUS` dan `Ran 17 tests ... OK`.
+Keluaran yang diharapkan: `[SELFTEST] LULUS` dan `Ran 17 tests ... OK`.
+
+Uji yang sama juga berjalan otomatis di GitHub Actions (Ubuntu + Windows) setiap ada push — lihat badge di bagian atas README.
 
 ### 7.2 Sebagai Receiver (Node A) — mode interaktif
 
