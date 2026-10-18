@@ -1,0 +1,2 @@
+# Proyek ini hanya memakai Python standard library, tanpa paket tambahan.
+# Berkas ini dipakai sebagai kunci cache pip di GitHub Actions.

@@ -9,19 +9,27 @@ on:
 
 jobs:
   uji:
-    name: ${{ matrix.os }}
+    name: Uji ${{ matrix.label }}
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, windows-latest]
+        include:
+          - os: windows-latest
+            label: Windows
+            python: "3.12"
+          - os: ubuntu-latest
+            label: Ubuntu
+            python: "3.12"
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Selftest vektor DES
         run: python sender_node-v3.py --selftest
