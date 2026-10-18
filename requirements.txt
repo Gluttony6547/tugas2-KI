@@ -1,2 +1,2 @@
 # Proyek ini hanya memakai Python standard library, tanpa paket tambahan.
-# Berkas ini dipakai sebagai kunci cache pip di GitHub Actions.
+# Berkas ini dipakai sebagai penanda bahwa memang tidak ada paket yang perlu dipasang.
