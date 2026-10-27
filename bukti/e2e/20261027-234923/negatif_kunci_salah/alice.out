@@ -1,0 +1,10 @@
+==============================================================
+        NODE ALICE - PENERIMA TIKET + PENGIRIM/PENERIMA AES
+==============================================================
+[KDC]     127.0.0.2:12275
+[LAWAN]   bob di 127.0.0.4:12276
+[KUNCI]   K_A = KunciSalahSekali (16 ASCII)
+==============================================================
+
+[LANGKAH 1] alice -> KDC : ID_A=alice ID_B=bob N1=3455413052
+[ERROR] Handshake gagal: gagal membuka balasan KDC dengan kunci master

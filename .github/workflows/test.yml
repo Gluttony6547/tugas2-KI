@@ -1,4 +1,4 @@
-name: Uji DES
+name: Uji AES + KDC
 
 on:
   push:
@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: ${{ matrix.python }}
 
-      - name: Selftest vektor DES
-        run: python sender_node-v3.py --selftest
+      - name: Uji vektor AES dan protokol KDC
+        run: python -m unittest test_aes -v
 
-      - name: Jalankan test_des.py
-        run: python -m unittest test_des -v
+      - name: Uji end-to-end KDC + Alice + Bob
+        run: python uji_end_to_end.py

@@ -1,0 +1,24 @@
+{
+  "kdc": {
+    "host": "127.0.0.2",
+    "port": 5000,
+    "kunci_master": {
+      "alice": "KunciAliceKI2026",
+      "bob": "KunciBobKI2026XX"
+    }
+  },
+  "alice": {
+    "id": "alice",
+    "host": "127.0.0.3",
+    "kunci_master": "KunciAliceKI2026"
+  },
+  "bob": {
+    "id": "bob",
+    "host": "127.0.0.4",
+    "port": 5002,
+    "kunci_master": "KunciBobKI2026XX"
+  },
+  "jaringan": {
+    "timeout": 15.0
+  }
+}

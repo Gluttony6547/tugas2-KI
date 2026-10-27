@@ -1,0 +1,73 @@
+[UJI] Konsol interaktif pasca-pemisahan modul
+[UJI] Perintah: pesan biasa x2, /status, /kunci, pesan setelah rotasi, /status, /keluar
+[HASIL] exit Alice=0 Bob=0
+[CEK ALICE] '[KONSOL] /kirim' -> True
+[CEK ALICE] 'lokal         : 127.0.0.3:' -> True
+[CEK ALICE] '[KUNCI] Lawan mengonfirmasi' -> True
+[CEK ALICE] '[KUNCI] Tiket baru dikirim' -> True
+[CEK ALICE] '[STATUS] pesan' -> True
+[CEK ALICE] '[INFO] Sesi berakhir' -> True
+[CEK BOB]   '[KUNCI] Lawan mengganti kunci sesi' -> True
+[CEK BOB]   'Plaintext            : Pesan setelah kunci baru' -> True
+
+===== ALICE (potongan) =====
+[KUNCI]   K_A = KunciAliceKI2026 (16 ASCII)
+[LANGKAH 1] alice -> KDC : ID_A=alice ID_B=bob N1=120229896
+[LANGKAH 2] KDC -> alice : sesi=S-001
+[LANGKAH 3] alice -> bob : kirim tiket E_KB[K_S, ID_A]
+[LANGKAH 3] Tiket (HEX) = c344ae82da658a75e431e3bfd5f267b7f23b3286b1c63f3a8e36ba9aed5e692069e646f97b0f0c8031012f34df84313cc825535dfae610fb7d8ab2e4041a32cc3c9b34b4d538bdc528bd485d784913b82cb082b82102ab6a6f6c5e5b2437b7c7f686b649d93894772303270a699f1be6
+[LANGKAH 4] bob -> alice : E_KS[N2] (HEX) = ef45e02812c0198b0e054059011352e332f05a79bc6253f85aa35a8c99541ad1
+[LANGKAH 5] alice -> bob : E_KS[N2-1] (HEX) = 77a24c9a49224849c08976396ab3d67dafe66e2894ad986db617ec4da692802c
+[SESI] Terbentuk 23:51:42 dengan bob @ 127.0.0.4:12602
+[SESI] K_S = CVQSt5RhB8qSP835 (16 ASCII), sesi KDC S-001
+[KONSOL] /kirim <teks>, /kunci, /status, /bantu, /keluar
+[alice] > [TERKIRIM] Ciphertext AES (HEX) : 85cef54e0091f6ca263b7e7cc722e2854f1c78c63f1297e770e8023e94d721b9f41543a32f53dfc6bbc1593af08011e4843ec70f28c9fc50bbf26e142c976c69
+[TERKIRIM] Panjang ciphertext   : 64 byte
+[TERKIRIM] Ciphertext AES (HEX) : 803e7409d0b98a63e7a5dcbaba8cf8b2970bb234a90199ceefc40299cfe2f4422f1006a987a041a689fc7aac57d7e319e1931b8052a8757565140d2d1d3183cc
+[TERKIRIM] Panjang ciphertext   : 64 byte
+[STATUS] peran         : alice
+[STATUS] ID node       : alice
+[STATUS] KDC           : 127.0.0.2:12601
+[STATUS] K_A/K_B (ASCII): KunciAliceKI2026
+[STATUS] lawan         : bob @ 127.0.0.4:12602
+[STATUS] lokal         : 127.0.0.3:12618
+[STATUS] sesi KDC      : S-001
+[STATUS] K_S (ASCII)   : CVQSt5RhB8qSP835
+[STATUS] mulai         : 23:51:42
+[STATUS] pesan         : TX=2 RX=2
+[STATUS] status        : aktif
+[alice] > [KUNCI] Meminta sesi baru ke KDC...
+[LANGKAH 1] alice -> KDC : ID_A=alice ID_B=bob N1=600690063
+[LANGKAH 2] KDC -> alice : sesi=S-002
+[KUNCI] Tiket baru dikirim dengan kunci lama. K_S baru = FIfmFDDHC8KRSOQ4
+[KUNCI] Menunggu konfirmasi lawan sebelum memakai kunci baru...
+[KUNCI] Lawan mengonfirmasi; kunci baru aktif di kedua sisi.
+[TERKIRIM] Ciphertext AES (HEX) : 882593037f3576aa5781c7bb9e68fc6a77a9f92eaebf30450b5a38bccfde1eae37b800138e57a552a7c768b9e97948626f1b334ee14f8471bbc24fcdb499675f
+[TERKIRIM] Panjang ciphertext   : 64 byte
+[alice] > [STATUS] peran         : alice
+[STATUS] ID node       : alice
+[STATUS] KDC           : 127.0.0.2:12601
+[STATUS] K_A/K_B (ASCII): KunciAliceKI2026
+[STATUS] lawan         : bob @ 127.0.0.4:12602
+[STATUS] lokal         : 127.0.0.3:12618
+[STATUS] sesi KDC      : S-002
+[STATUS] K_S (ASCII)   : FIfmFDDHC8KRSOQ4
+[STATUS] mulai         : 23:51:42
+[STATUS] pesan         : TX=3 RX=2
+[STATUS] status        : aktif
+[alice] > [INFO] Sesi berakhir.
+
+===== BOB (potongan) =====
+[KUNCI]   K_B = KunciBobKI2026XX (16 ASCII)
+[INFO] IP yang dipakai untuk koneksi akan tampil di status.
+[DITERIMA #1] dari alice @ 127.0.0.3:12618
+Plaintext            : Halo Bob pesan pertama
+[DITERIMA #2] dari alice @ 127.0.0.3:12618
+Plaintext            : Pesan kedua dari Alice
+[KUNCI] Lawan mengganti kunci sesi. K_S baru = FIfmFDDHC8KRSOQ4
+[KUNCI] Konfirmasi dikirim dengan kunci baru.
+[DITERIMA #3] dari alice @ 127.0.0.3:12618
+Plaintext            : Pesan setelah kunci baru
+[INFO] Lawan menutup koneksi.
+[INFO] Sesi berakhir.
+[INFO] Menunggu koneksi berikutnya di 127.0.0.4:12602

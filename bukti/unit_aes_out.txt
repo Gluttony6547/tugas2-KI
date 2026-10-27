@@ -1,0 +1,25 @@
+test_id_sama_ditolak (test_aes.UjiKDC.test_id_sama_ditolak) ... ok
+test_identitas_tidak_dikenal_ditolak (test_aes.UjiKDC.test_identitas_tidak_dikenal_ditolak) ... ok
+test_kunci_sesi_berbeda_tiap_permintaan (test_aes.UjiKDC.test_kunci_sesi_berbeda_tiap_permintaan) ... ok
+test_langkah_2_berisi_sesi_dan_tiket (test_aes.UjiKDC.test_langkah_2_berisi_sesi_dan_tiket) ... ok
+test_kunci_konfigurasi_valid (test_aes.UjiKonfigurasi.test_kunci_konfigurasi_valid) ... ok
+test_ciphertext_tidak_memuat_plaintext (test_aes.UjiModeCBC.test_ciphertext_tidak_memuat_plaintext) ... ok
+test_iv_acak_per_pesan (test_aes.UjiModeCBC.test_iv_acak_per_pesan) ... ok
+test_panjang_ciphertext_kelipatan_blok (test_aes.UjiModeCBC.test_panjang_ciphertext_kelipatan_blok) ... ok
+test_putar_balik_berbagai_panjang (test_aes.UjiModeCBC.test_putar_balik_berbagai_panjang) ... ok
+test_teks_utf8 (test_aes.UjiModeCBC.test_teks_utf8) ... ok
+test_blok_salah_ukuran (test_aes.UjiValidasiKunci.test_blok_salah_ukuran) ... ok
+test_ciphertext_terpotong (test_aes.UjiValidasiKunci.test_ciphertext_terpotong) ... ok
+test_kunci_ascii_16_diterima (test_aes.UjiValidasiKunci.test_kunci_ascii_16_diterima) ... ok
+test_kunci_non_ascii (test_aes.UjiValidasiKunci.test_kunci_non_ascii) ... ok
+test_kunci_terlalu_panjang (test_aes.UjiValidasiKunci.test_kunci_terlalu_panjang) ... ok
+test_kunci_terlalu_pendek (test_aes.UjiValidasiKunci.test_kunci_terlalu_pendek) ... ok
+test_padding_rusak (test_aes.UjiValidasiKunci.test_padding_rusak) ... ok
+test_fips_197_c1_dekripsi (test_aes.UjiVektorAES.test_fips_197_c1_dekripsi) ... ok
+test_fips_197_c1_enkripsi (test_aes.UjiVektorAES.test_fips_197_c1_enkripsi) ... ok
+test_nist_sp800_38a_cbc (test_aes.UjiVektorAES.test_nist_sp800_38a_cbc) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.133s
+
+OK
