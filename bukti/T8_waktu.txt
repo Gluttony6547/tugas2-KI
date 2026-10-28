@@ -1,1 +1,0 @@
-T8 sender_exit=0 durasi=0.344s per_pertukaran=1.72ms

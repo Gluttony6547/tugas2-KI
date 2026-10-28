@@ -1,0 +1,70 @@
+==============================================================
+        NODE ALICE - PENERIMA TIKET + PENGIRIM/PENERIMA AES
+==============================================================
+[KDC]     127.0.0.2:14231
+[LAWAN]   bob di 127.0.0.4:14232
+[KUNCI]   K_A = KunciAliceKI2026 (16 ASCII)
+==============================================================
+
+[LANGKAH 1] alice -> KDC : ID_A=alice ID_B=bob N1=1845763217
+[LANGKAH 2] KDC -> alice : sesi=S-001
+            E_KA[K_S || ID_A || ID_B || N1 || tiket] (HEX) =
+            5a1f5517f0e218303e96b135645e07043a1452b6738690c38f4b69790b8b77c49f44c48cf5581d20266bad6832c76f56649de41389c7e1c9716e58412198fb02eddc612031727a4ee60b22ce061830b4add9b7d7c2693831aac4baf7b972be513eef2fafac0e0ce6e44cdfdd39358b1c52e347604879c71e0a6f4d8cab4afa43280623f49205d0303eafe685eb70f59567a5260b29fbbef08a86b7e0ad9009bfce36d5822abc57e9326c6de8f34959bc495eca4726265b3a581ff6ef0a21effc932666318a7919143c45712fb8aca43035e658d9be8d4a0782f42cb55372726d77ecfc921fef4f0e21f673a22277124bd4f3f12774b36cc8d34f66195615ffa58bf12917ccfbe782d9064058116cb7da5229f1cf090ece790c2b71921d28932459f6d9ba2b5a877ab3778c9c4af72e93d08486c6a0ee28aff8712bc3683b593113ca36eef5a7260439912d3d34dd412b
+            K_S yang dibuka = Cj3Dfc3tnfX3CtEF (16 ASCII)
+            Tiket untuk lawan (HEX) = 4eb625a721ca2175403d227919f09a1b04ef064ae5d138015d041110123ac458546e01b7d56e9b1d105ffb394a2dd375f324b68af8a5c7cabb232424f89b3b3687fd8f83daffd392cf45303fdfda2fe62f9bff827556cf0e4b2d966e1850e4a7d26a57836145a12a49dbfccc4780af38
+[LANGKAH 3] alice -> bob : kirim tiket E_KB[K_S, ID_A]
+[LANGKAH 3] Tiket (HEX) = 4eb625a721ca2175403d227919f09a1b04ef064ae5d138015d041110123ac458546e01b7d56e9b1d105ffb394a2dd375f324b68af8a5c7cabb232424f89b3b3687fd8f83daffd392cf45303fdfda2fe62f9bff827556cf0e4b2d966e1850e4a7d26a57836145a12a49dbfccc4780af38
+[LANGKAH 4] bob -> alice : E_KS[N2] (HEX) = 983348f5d3948e5bb8d4e327430f83190cc5737807cc6779930cb0f3bb055ee6
+            N2 = 245241367
+[LANGKAH 5] alice -> bob : E_KS[N2-1] (HEX) = 0253bf914269caa3b39537f16ef8ce19fa74d634776f807626205fa7da659be2
+[SESI] Terbentuk 22:54:54 dengan bob @ 127.0.0.4:14232
+[SESI] K_S = Cj3Dfc3tnfX3CtEF (16 ASCII), sesi KDC S-001
+[STATUS] peran         : alice
+[STATUS] ID node       : alice
+[STATUS] KDC           : 127.0.0.2:14231
+[STATUS] K_A/K_B (ASCII): KunciAliceKI2026
+[STATUS] lawan         : bob @ 127.0.0.4:14232
+[STATUS] lokal         : 127.0.0.3:14234
+[STATUS] sesi KDC      : S-001
+[STATUS] K_S (ASCII)   : Cj3Dfc3tnfX3CtEF
+[STATUS] mulai         : 22:54:54
+[STATUS] pesan         : TX=0 RX=0
+[STATUS] status        : aktif
+[TERKIRIM] Ciphertext AES (HEX) : 418df6e4862d63b9adc2822f6a193a3eadab708b94c75da2bb20556035a4a1ad9c94c5ddfee2ce04877d2968780abb485445217a167a1f5f66d2fc5b057e8f62
+[TERKIRIM] Panjang ciphertext   : 64 byte
+
+==============================================================
+[DITERIMA #1] dari bob @ 127.0.0.4:14232
+Ciphertext AES (HEX) : e6b25eeda984add43f7d8d3df72555cde82e96b31999fa89fe7963878db68b6792857e2bc0712d7a78b8108a46c4a053
+Plaintext            : Balasan dari Bob
+==============================================================
+[TERKIRIM] Ciphertext AES (HEX) : f5134792e15017af815861e8d8f8421502778bd1d5701e0034f5e5098795fa8ba637f7238460d483458c39f47debd1c4a5675056bf6951119684350b4264a78d
+[TERKIRIM] Panjang ciphertext   : 64 byte
+[KUNCI] Meminta sesi baru ke KDC...
+[LANGKAH 1] alice -> KDC : ID_A=alice ID_B=bob N1=859604447
+
+==============================================================
+[DITERIMA #2] dari bob @ 127.0.0.4:14232
+Ciphertext AES (HEX) : af8d2ae04bab588fdd6ede161af61699a2e8916231b80b9205d1ff73599a60bd57fa7c7c8ba64d94975925c39966fcfb
+Plaintext            : Balasan dari Bob
+==============================================================
+[LANGKAH 2] KDC -> alice : sesi=S-002
+            E_KA[K_S || ID_A || ID_B || N1 || tiket] (HEX) =
+            274cea2d7f0f8e0752040b83867e311fc32e4c00bab7005a62adc84d54bbc39f39cc6c5518f11cd6bece702fa1ed69a7aaea7c629459ac34535ea82734a1d28c8ef23d3a2654ee7752b3a798bdebb1f4b03b6d7642b359ab627c5dcd3b440862d7a3fbef9ee0518a76bb52cb5fe49f50bbfa96caf0e5e0f917202fb25a11cb7b6b543a3c293221af4353e1d4a05a561407137f6e56e5c09dc86237d656208782354f242e20d4043a1488a125cbfea2c28510a66b5e758035bbc967381ea8c4029a806b84dfeb76e1a84d574bd1890b0f59e6f3e9ba67bca513da497fedbe852a3efb822a4f3f22d7b6eeb6c57497bfbd38223a140d30fda6cddbc9a314c6972540f6485f421fedb5ab2dae1820eed46416a4a5575e981a7dbfc665097364e0b873d508b63d75fa30e1963084b9481a157bc1e4cd737d0851849681a928162bec079704486440ed11a0507b6ec506c279
+            K_S yang dibuka = 3JycRdB61t26CZ7h (16 ASCII)
+            Tiket untuk lawan (HEX) = b8701f8616386694548c2007e47477b475a893642a65647d8cf9b1b341874b11f32b5952c1cd576b4310a3d5ec513180d866abc1d2b5a407a5ddfc4903201df59842ba0858926df2d145b11e56f4fe69f2ebfa590df43cde6353018be066f21125a785617ebe89f6352ece0d18005f89
+[KUNCI] Tiket baru dikirim dengan kunci lama. K_S baru = 3JycRdB61t26CZ7h
+[KUNCI] Menunggu konfirmasi lawan sebelum memakai kunci baru...
+
+[KUNCI] Lawan mengonfirmasi; kunci baru aktif di kedua sisi.
+[HASIL] Rotasi kunci setelah pesan #2 berhasil.
+[TERKIRIM] Ciphertext AES (HEX) : 55ded861b22f3daa76c2f3d38b16e6f86a210457a3a1797a8e850567850d19c072f68dc2035fcd4c511ac57064ed9b1ae9368131e7dc52607a530e79f98be62c
+[TERKIRIM] Panjang ciphertext   : 64 byte
+
+==============================================================
+[DITERIMA #3] dari bob @ 127.0.0.4:14232
+Ciphertext AES (HEX) : 9871118c8d2732760e3bd713022b1c236f5f0efc95b76f41563f67c77865b0da101e00db59c0f9db570a491fd9300d03
+Plaintext            : Balasan dari Bob
+==============================================================
+[HASIL] LULUS: 3 pesan terkirim, 3 balasan diterima.
+[INFO] Sesi berakhir.

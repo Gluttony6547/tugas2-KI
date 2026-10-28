@@ -1,1 +1,0 @@
-[ERROR] PSK harus tepat 8 byte, diterima 10 byte: 'KunciDES67'

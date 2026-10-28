@@ -1,9 +1,0 @@
-============================================================
-      SIMULASI KOMUNIKASI ENKRIPSI DES 2 ARAH - RECEIVER (NODE A)
-============================================================
-[PSK CONFIG] Pre-Shared Key : KunciDES (8 byte)
-[ALGORITMA]  Cipher Engine  : Manual DES (Data Encryption Standard)
-============================================================
-
-[ERROR] Gagal membuka 127.0.0.1:65446 -> [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-        Port mungkin sudah dipakai proses lain.

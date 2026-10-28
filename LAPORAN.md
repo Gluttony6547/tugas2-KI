@@ -830,8 +830,8 @@ Capture terpisah dijalankan dengan port tetap 5000/5002 agar filter capture sede
 8. **Tidak ada MAC/timestamp/replay protection.** CBC memberi kerahasiaan, bukan integritas; tiket punya `waktu` tetapi tidak divalidasi umurnya.
 9. **Kunci dan `K_S` dicetak ke konsol/log.** Untuk demo ini disengaja; jangan dipakai di produksi.
 10. **Pemisahan modul baru pada pass ini.** Protokol handshake/transport ada di `protokol.py`, tampilan/konsol/mode otomatis di `konsol.py`, keadaan sesi di `sesi.py`, dan `node.py` tinggal CLI, `__init__`, serta `main`. Metodenya masih dipakai lewat `Node` (mixin), jadi penjelasan saat demo tetap boleh menyebut `Node.minta_sesi` dan seterusnya.
-11. **File DES lama masih ada.** `cipher_manual.py`, `sender_node-v3.py`, `receiver_node-v3.py`, `test_des.py`, `transport.py`, `uji_lintas_mesin.py`, `PANDUAN_PENGUJIAN.md`, dan `HASIL_PENGUJIAN.md` adalah tugas sebelumnya. README lama dipindahkan ke `README_DES_SEBELUMNYA.md` dan diberi label arsip; file-nya tidak dihapus.
-12. **Belum di-commit/push.** Perubahan pass ini ada di working tree. Commit harus dilakukan dengan akun yang benar sebelum submit.
+11. **File DES sudah dibersihkan.** Seluruh berkas tugas 1 (DES) — `cipher_manual.py`, `sender_node-v3.py`, `receiver_node-v3.py`, `test_des.py`, `transport.py`, `uji_lintas_mesin.py`, `PANDUAN_PENGUJIAN.md`, `HASIL_PENGUJIAN.md`, `README_DES_SEBELUMNYA.md`, beserta bukti uji DES di `bukti/` — dihapus dari repository agar isinya hanya AES/KDC. Riwayat lengkapnya masih ada di history commit, dan folder `PPT/` dipindahkan dari git ke lokal (bagian `.gitignore`) untuk memangkas ukuran repository.
+12. **Commit/push dilakukan setelah pembersihan.** Semua perubahan pass ini di-commit setelah seluruh uji lulus.
 
 ---
 
@@ -968,10 +968,10 @@ Supaya tiap tanggung jawab punya satu tempat: handshake dan transport di `protok
 | [`test_aes.py`](test_aes.py) | 20 unit test | `UjiVektorAES`, `UjiModeCBC`, `UjiValidasiKunci`, `UjiKDC`, `UjiKonfigurasi` |
 | [`uji_end_to_end.py`](uji_end_to_end.py) | Harness tiga proses | `jalankan_skenario`, `jalankan_negatif`, `periksa_umum`, `periksa_ciphertext`, `main` |
 | [`.github/workflows/test.yml`](.github/workflows/test.yml) | CI Windows + Ubuntu | Menjalankan `python -m unittest test_aes -v` dan `python uji_end_to_end.py` |
-| [`README.md`](README.md) | Entry point Tugas 2 | Ringkasan, quick start, arsip DES |
+| [`README.md`](README.md) | Entry point Tugas 2 | Ringkasan, quick start, tautan PANDUAN_TESTING_DUA_MESIN.md |
 | [`LAPORAN.md`](LAPORAN.md) | Laporan ini | 12 ketentuan, diagram, hasil, demo |
 
-Berkas **tugas sebelumnya (DES)** yang tidak dihapus: `cipher_manual.py`, `transport.py`, `sender_node-v3.py`, `receiver_node-v3.py`, `test_des.py`, `uji_lintas_mesin.py`, `PANDUAN_PENGUJIAN.md`, `HASIL_PENGUJIAN.md`, `README_DES_SEBELUMNYA.md`. Jangan mencampuradukkan berkas DES dengan AES/KDC saat menjelaskan demo.
+Bukti uji DES lama sudah dihapus dari `bukti/` bersama berkas DES; hanya bukti AES/KDC yang tersisa (unit test, E2E, konsol, pcap).
 
 ---
 
@@ -985,7 +985,8 @@ Berkas **tugas sebelumnya (DES)** yang tidak dihapus: `cipher_manual.py`, `trans
 | Tiga perangkat fisik | **Belum dijalankan** |
 | Capture Wireshark | **Ada**, `bukti/pcap/handshake_chat.pcap` (interface loopback) |
 | Laporan Markdown | Selesai di `LAPORAN.md` |
-| README Tugas 2 | Selesai di `README.md`; README DES diarsipkan |
+| README Tugas 2 | Selesai di `README.md` |
+| Panduan dua terminal (desktop + VM) | Selesai di `PANDUAN_TESTING_DUA_MESIN.md` |
 | Commit/push | **Belum dilakukan pada pass ini** |
 | Pendaftaran kelompok | Harus dicek di spreadsheet; tidak bisa dibuktikan dari repo |
 | Pengumpulan Google Form | Harus dilakukan setelah commit/push |

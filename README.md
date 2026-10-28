@@ -9,7 +9,7 @@
 
 > **Ini entry point Tugas 2.** Implementasi yang sedang dinilai adalah **AES-128 manual + KDC** untuk Alice dan Bob. Laporan lengkap, analisis 12 ketentuan, panduan tiga mesin, Wireshark, dan hasil uji ada di **[LAPORAN.md](LAPORAN.md)**.
 >
-> Folder ini juga menyimpan tugas **DES** sebelumnya. Berkas DES **tidak dihapus** dan diberi label arsip di bagian [Tugas sebelumnya (DES)](#tugas-sebelumnya-des--arsip).
+> Berkas tugas 1 (DES) sudah dibersihkan dari repository ini agar isinya hanya kode yang dinilai; versi lamanya masih ada di riwayat commit.
 
 ---
 
@@ -137,17 +137,10 @@ Mode otomatis untuk pengujian: `--kirim`, `--balas`, `--jumlah`, `--harap-balasa
 | [`test_aes.py`](test_aes.py) | 20 unit test, termasuk vektor FIPS-197 dan NIST CBC |
 | [`uji_end_to_end.py`](uji_end_to_end.py) | Harness tiga proses dengan tiga IP berbeda: dasar, rotasi kunci, negatif |
 | [`LAPORAN.md`](LAPORAN.md) | Laporan lengkap Tugas 2 |
+| [`PANDUAN_TESTING_DUA_MESIN.md`](PANDUAN_TESTING_DUA_MESIN.md) | Langkah testing dua terminal: desktop utama + VM Linux Mint |
 | [`.github/workflows/test.yml`](.github/workflows/test.yml) | CI Windows + Ubuntu untuk unit test dan E2E |
 
-### Tugas sebelumnya (DES) — arsip
 
-Berkas berikut adalah **tugas DES**, bukan bagian AES/KDC. Jangan dijalankan untuk demo Tugas 2, tetapi jangan dihapus agar riwayat pengerjaan tetap terlihat.
-
-- Dokumentasi lama: [`README_DES_SEBELUMNYA.md`](README_DES_SEBELUMNYA.md), [`PANDUAN_PENGUJIAN.md`](PANDUAN_PENGUJIAN.md), [`HASIL_PENGUJIAN.md`](HASIL_PENGUJIAN.md)
-- Kode DES: [`cipher_manual.py`](cipher_manual.py), [`transport.py`](transport.py), [`sender_node-v3.py`](sender_node-v3.py), [`receiver_node-v3.py`](receiver_node-v3.py), [`test_des.py`](test_des.py), [`uji_lintas_mesin.py`](uji_lintas_mesin.py)
-- Bukti DES: file lama di [`bukti/`](bukti/), sebelum folder `bukti/e2e/` yang berisi bukti AES/KDC.
-
----
 
 ## Pengujian
 
@@ -159,7 +152,7 @@ python -m unittest test_aes -v
 python uji_end_to_end.py
 ```
 
-Hasil terakhir (27 Oktober 2026, 23.49 WIB), dijalankan setelah pemisahan modul:
+Hasil terakhir dirapikan ulang (28 Oktober 2026) setelah pembersihan laporan, dan semua uji dijalankan kembali. Hasil run sebelumnya (27 Oktober 2026, 23.49 WIB, setelah pemisahan modul):
 
 - **20 unit test lulus**, termasuk FIPS-197 C.1 dan NIST SP 800-38A CBC. Bukti: [`bukti/unit_aes_out.txt`](bukti/unit_aes_out.txt).
 - **3 skenario E2E lulus** dengan tiga IP berbeda: percakapan dua arah, rotasi kunci di tengah percakapan, dan kunci master salah. Ringkasan: [`bukti/e2e_hasil.txt`](bukti/e2e_hasil.txt); detail: [`bukti/e2e/20261027-234923/`](bukti/e2e/20261027-234923/).
